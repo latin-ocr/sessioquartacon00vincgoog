@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sessioquartacon00vincgoog_0430.png"; bbox 0 0 3086 5182; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 113 525 1175 881">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 113 525 1175 881">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 525 922 638; baseline 0.002 -21"><span class='ocrx_word' id='word_1_1' title='bbox 357 527 590 618; x_wconf 77' lang='lat' dir='ltr'>sEsslo</span> <span class='ocrx_word' id='word_1_2' title='bbox 633 525 922 638; x_wconf 77' lang='lat' dir='ltr'>QUARTA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 113 775 1175 881; baseline -0.006 -1"><span class='ocrx_word' id='word_1_3' title='bbox 113 777 393 881; x_wconf 89' lang='lat' dir='ltr'><strong>CONCILII</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 419 776 798 876; x_wconf 87' lang='lat' dir='ltr'>TRIDENTINI</span> <span class='ocrx_word' id='word_1_5' title='bbox 822 775 1175 878; x_wconf 79' lang='lat' dir='ltr'>VINDICATA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 144 1181 1140 1296">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 144 1181 1140 1296">
+     <span class='ocr_line' id='line_1_3' title="bbox 144 1181 1140 1296; baseline -0.004 0"><span class='ocrx_word' id='word_1_6' title='bbox 144 1183 394 1296; x_wconf 69' lang='lat' dir='ltr'>[N&#39;fflonssewo</span> <span class='ocrx_word' id='word_1_7' title='bbox 422 1181 469 1292; x_wconf 80' lang='grc' dir='ltr'>ΙΝ</span> <span class='ocrx_word' id='word_1_8' title='bbox 487 1181 709 1293; x_wconf 64' lang='lat' dir='ltr'>summm</span> <span class='ocrx_word' id='word_1_9' title='bbox 738 1181 1140 1293; x_wconf 66' lang='lat' dir='ltr'>TTUTTTOTANONIGAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 419 1409 865 1476">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 419 1409 865 1476">
+     <span class='ocr_line' id='line_1_4' title="bbox 419 1409 865 1476; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 419 1410 588 1476; x_wconf 80' lang='lat' dir='ltr'>VETERIS</span> <span class='ocrx_word' id='word_1_11' title='bbox 613 1409 865 1476; x_wconf 77' lang='lat' dir='ltr'>TESTAMENTI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 255 1606 1033 1694">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 255 1606 1033 1694">
+     <span class='ocr_line' id='line_1_5' title="bbox 255 1606 1033 1694; baseline -0.003 -2"><span class='ocrx_word' id='word_1_12' title='bbox 255 1608 331 1693; x_wconf 67' lang='lat' dir='ltr'>Im</span> <span class='ocrx_word' id='word_1_13' title='bbox 349 1607 511 1692; x_wconf 58' lang='lat' dir='ltr'>TW&amp;</span> <span class='ocrx_word' id='word_1_14' title='bbox 530 1606 781 1694; x_wconf 58' lang='lat' dir='ltr'>wnmwffiae</span> <span class='ocrx_word' id='word_1_15' title='bbox 801 1606 1033 1693; x_wconf 64' lang='lat' dir='ltr'>{mmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1548 5182">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1548 5182">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1548 5182; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1548 5182; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
